@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ColdWar\ColdWar\bin\Debug\net8.0\ColdWar.exe
+C:\Users\user\source\repos\ColdWar\ColdWar\bin\Debug\net8.0\ColdWar.deps.json
+C:\Users\user\source\repos\ColdWar\ColdWar\bin\Debug\net8.0\ColdWar.runtimeconfig.json
+C:\Users\user\source\repos\ColdWar\ColdWar\bin\Debug\net8.0\ColdWar.dll
+C:\Users\user\source\repos\ColdWar\ColdWar\bin\Debug\net8.0\ColdWar.pdb
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.AssemblyInfo.cs
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.dll
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\refint\ColdWar.dll
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.pdb
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ColdWar.genruntimeconfig.cache
+C:\Users\user\source\repos\ColdWar\ColdWar\obj\Debug\net8.0\ref\ColdWar.dll
